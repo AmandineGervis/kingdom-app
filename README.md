@@ -1,7 +1,7 @@
-# Bienvenue dans ton livre de recettes
+# Bienvenue dans ton Royaume
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
-C'est un réseau social autour des ***recettes de cuisine*** développé en React.js avec un systéme d'authentification via Firebase et connexion à une base de donnée en temps téel. 
+C'est une application de recensement des ***familles de ton royaume*** développé en React.js avec un systéme d'authentification via Firebase et connexion à une base de donnée en temps téel. 
 
 ## Pour commencer
 
