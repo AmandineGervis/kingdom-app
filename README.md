@@ -1,67 +1,55 @@
-# Getting Started with Create React App
+# Bienvenue dans ton livre de recettes
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+C'est un réseau social autour des ***recettes de cuisine*** développé en React.js avec un systéme d'authentification via Firebase et connexion à une base de donnée en temps téel. 
 
-## Available Scripts
+## Pour commencer
 
-In the project directory, you can run:
+- Créer un compte sur *Firebase* (si pas déjà fait)
+- Ouvrir une base de donnée realTime avec le nom de votre app
+- Pour authentification avec Facebook | Créer un compte sur *Facebook for Developers*
+- Créer une app et activer la connexion *(Facebook for Developers)*
 
-### `npm start`
+### Pourquoi?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Validation du Checkpoint 4 avec la **Wild Code School** de Lyon
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Consignes
 
-### `npm test`
+ - I. Développer la partie front-end d'une application web ou mobile:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Modéliser une application ;
 
-### `npm run build`
+Construire une interface utilisateur web statique et adaptable ;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Développer une interface utilisateur web dynamique ;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Créer une interface utilisateur avec une solution de gestion de contenu.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- II. Développer la partie back-end d'une application web ou mobile:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Créer une base de données ;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Développer des composants d'accès aux données ;
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Développer la partie back-end d'une application Web ou Web Mobile ;
 
-## Learn More
+Développer et implémenter des composants dans une application de gestion de contenu.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Démarrage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Executez la commande ``npm i`` et ensuite ``npm start``
 
-### Code Splitting
+## Technos & Outils
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
+- React.js
+- Firebase
+- Librairie Re-base
+- Facebook for developers
+- React Router
+- CSS
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
